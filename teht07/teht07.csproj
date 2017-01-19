@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{ABE063FA-AE8E-4268-81FB-BD3F4634F862}</ProjectGuid>
+    <ProjectGuid>{10735E3C-0840-4FCA-9CC4-EFA254CD1FE0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>teht08</RootNamespace>
-    <AssemblyName>teht08</AssemblyName>
+    <RootNamespace>teht07</RootNamespace>
+    <AssemblyName>teht07</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
