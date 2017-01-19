@@ -14,9 +14,9 @@ namespace teht08
             vuosi = int.Parse(Console.ReadLine());
             Console.WriteLine("Anna vuosi > ");
 
-            if (vuosi / 4)
+            //if (vuosi / 4)
             Console.WriteLine("Vuosi on karkausvuosi."); 
-            else if (vuosi )
+            //else if (vuosi )
         }
     }
 }
