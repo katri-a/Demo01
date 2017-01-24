@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht08", "teht08\teht08.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht09", "teht09\teht09.csproj", "{0511BA34-234A-41CB-BDD6-2BE692E21274}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht10", "teht10\teht10.csproj", "{9950486C-23CD-4BC4-A7B7-880637120492}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{0511BA34-234A-41CB-BDD6-2BE692E21274}.Release|x64.Build.0 = Release|Any CPU
 		{0511BA34-234A-41CB-BDD6-2BE692E21274}.Release|x86.ActiveCfg = Release|Any CPU
 		{0511BA34-234A-41CB-BDD6-2BE692E21274}.Release|x86.Build.0 = Release|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Debug|x64.Build.0 = Debug|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Debug|x86.Build.0 = Debug|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Release|x64.ActiveCfg = Release|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Release|x64.Build.0 = Release|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Release|x86.ActiveCfg = Release|Any CPU
+		{9950486C-23CD-4BC4-A7B7-880637120492}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
