@@ -21,7 +21,7 @@ namespace teht11
                     Console.Write("*");
                
                 }
-                Console.Write('\n');
+                Console.Write('\n'); //muuten tulostaa samalle riville
             }
         }
     }

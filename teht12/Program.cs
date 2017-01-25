@@ -26,6 +26,6 @@ namespace teht12
 
             for (int i = 4; i < luvut.Length; i--) Console.WriteLine("Luvut ovat: " + (luvut[i]));
           
-        }
+        }//ei toimi:( 
     }
 }

@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht12", "teht12\teht12.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht13", "teht13\teht13.csproj", "{0E3C65F4-10A6-4078-BC64-C01A7F095A7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teht14", "teht14\teht14.csproj", "{F35E94B7-F601-4256-9A2B-B07F142BDDCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -209,6 +211,18 @@ Global
 		{0E3C65F4-10A6-4078-BC64-C01A7F095A7E}.Release|x64.Build.0 = Release|Any CPU
 		{0E3C65F4-10A6-4078-BC64-C01A7F095A7E}.Release|x86.ActiveCfg = Release|Any CPU
 		{0E3C65F4-10A6-4078-BC64-C01A7F095A7E}.Release|x86.Build.0 = Release|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Debug|x64.Build.0 = Debug|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Debug|x86.Build.0 = Debug|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Release|x64.ActiveCfg = Release|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Release|x64.Build.0 = Release|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Release|x86.ActiveCfg = Release|Any CPU
+		{F35E94B7-F601-4256-9A2B-B07F142BDDCD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
