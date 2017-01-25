@@ -12,17 +12,15 @@ namespace teht09
         static void Main(string[] args)
         {
             int summa = 0;
-            int luku = 1;
+            int luku;
 
+            do {
                 Console.WriteLine("Anna luku > ");
                 luku = int.Parse(Console.ReadLine());
-
-
-                while (luku != 0) ;
-                summa = int.Parse(Console.ReadLine());
-                summa = summa + luku;
-
-                Console.Write("Lukujen summa on " + summa + "\n");
+                summa += luku;
+            }
+            while (luku != 0);              
+            Console.Write("Lukujen summa on " + summa + "\n");
             }
         }
     }
