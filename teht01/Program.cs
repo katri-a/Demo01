@@ -12,7 +12,7 @@ namespace teht01
         {
             //ask number
             int number;
-            Console.Write("Give a number > ");
+            Console.Write("Anna luku > ");
             number = int.Parse(Console.ReadLine()); //"10" -> 10
             //show number
             switch(number)
