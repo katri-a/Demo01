@@ -17,7 +17,7 @@ namespace teht09
             do {
                 Console.WriteLine("Anna luku > ");
                 luku = int.Parse(Console.ReadLine());
-                summa += luku;
+                summa += luku; //+= lisää itseensä
             }
             while (luku != 0);              
             Console.Write("Lukujen summa on " + summa + "\n");
