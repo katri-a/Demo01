@@ -10,20 +10,21 @@ namespace teht11
     {
         static void Main(string[] args)
         {
+                       
             Console.WriteLine("Anna luku > ");
             int luku = int.Parse(Console.ReadLine());
-            int i, j;
-            char star = {'*'};
-            for (i = 0; i < luku; i++)
+            for (int i = 0; i <= luku; i++)
             {
-                Console.WriteLine("*");
-
-                for (j = 1; j < i; j++)
-                {
-                    i++;
                 
+                for (int j = i; j > 0; j--)
+                {
+                    Console.Write("*");
+               
                 }
+                Console.Write('\n');
             }
         }
     }
 }
+
+
